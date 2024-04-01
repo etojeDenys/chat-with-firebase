@@ -6,6 +6,101 @@
         <chat>
           <accountId value="VXNlcjozNDIyOTU=" />
           <internalId value="770d8e3e-df52-4948-9d59-ea0ef59641a3" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjozNDIyOTU=" />
+          <internalId value="b39aac48-8835-46f1-b727-953bc0853ac5" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjozNDIyOTU=" />
+          <internalId value="ef085b29-22f3-464e-82ee-85b25f3c9296" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjozNDIyOTU=" />
+          <internalId value="1340872b-860a-47b3-ba30-9027faf190a4" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjozNDIyOTU=" />
+          <internalId value="dd8b510d-2928-4487-916e-c234972788b1" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjozNDIyOTU=" />
+          <internalId value="d1132fa2-51ba-4dbe-82c9-6d2e90d9f3c8" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjozNDIyOTU=" />
+          <internalId value="530e1970-0023-411f-977d-17069cce140c" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjozNDIyOTU=" />
+          <internalId value="a789bcdc-3cfc-4d8a-ad73-259e946a1846" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjozNDIyOTU=" />
+          <internalId value="c2cb577e-b168-4526-a030-955f8567d2f6" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
         </chat>
       </list>
     </chats>
